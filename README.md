@@ -9,7 +9,7 @@ The goal of this project is to create a classifier that can identify whether a g
 
 ## Contents
 
-- `Image Classifier.ipynb`: The Jupyter Notebook containing the code for the image classification project.
+- `image_classifier.ipynb`: The Jupyter Notebook containing the code for the image classification project.
 - `Monet.jpg`: Sample image of Claude Monet's artwork.
 - `Picasso.jpg`: Sample image of Pablo Picasso's artwork.
 - `picasso_or_monet/`: Directory containing additional images for classification.
