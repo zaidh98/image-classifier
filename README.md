@@ -1,5 +1,5 @@
 
-# Image Classifier
+# Painter Classifier
 
 This repository contains a simple image classification project designed to distinguish between artworks by Pablo Picasso and Claude Monet. Using deep learning techniques and the fastai library, this project demonstrates how to build and train an image classifier from scratch.
 
